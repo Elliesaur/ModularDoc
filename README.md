@@ -2,7 +2,7 @@
 
 # Description
 The most modular plugin-based documentation generator for your .NET libraries (currently officially supporting C# 9 and lower).
-rebuild!
+rebuild!?
 [I'm writing a Bachelor's thesis about this project](https://github.com/hailstorm75/ModularDoc.Thesis).
 
 ## What does modular mean?
